@@ -1,0 +1,29 @@
+{
+    "verison": "2.0.0",
+    "tasks":[
+        {
+            "label": "Compile hanoi_tools [Win/32-bit]",
+            "type": "shell",
+            "command": [
+                "i686-w64-mingw32-gcc.exe",
+                "-shared",
+                "-m32",
+                "-fshort-wchar",                            
+                "${workspaceFolder}/*.c",             
+                "-static", 
+                "-static-libgcc",
+                "-lgcc",
+                "-o ${workspaceFolder}/../hanoi_Data/Plugins/htbdog.dll"
+            ],
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+
+}

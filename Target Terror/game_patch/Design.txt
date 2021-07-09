@@ -1,0 +1,15 @@
+[Patch Layout and Design]
+
+Handling various parts of the game, a traditional single-file approach is waaaay too messy.
+I've split everything up into base components to more easily read and edit:
+
+* main.c: Entry Point - This performs all the static patching to the binary on linkage.
+
+* global.h: Any external dependencies that won't fuck up some written function go here. Also, any game-specific
+static defines, helper functions, or macros go here.
+
+* rtfs.c/rtfs.h: Wraps the Raw Thrills FileSystem filename and streaming resolution.
+
+* io.c/io.h: Wraps the Serial Gun interface and handles all input through its own POSIX thread.
+
+* gfx.c/gfx.h: Wraps and handles any Graphical or Game Speed fixes.

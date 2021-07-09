@@ -1,0 +1,510 @@
+0xe98	82	Raised in the Granite Orphanage,[NEWLINE][NEWLINE][NEWLINE]Jennifer and her friends led a lonely life...[NEWLINE][NEWLINE][NEWLINE][NEWLINE]
+0xf0c	56	One day, a man came to adopt them.[NEWLINE][NEWLINE][NEWLINE][NEWLINE]
+0xf66	26	They traveled to his mansion to meet him in September...
+0x10b8	20	Laura, hurry up![NEWLINE][NEWLINE]
+0x1110	32	We want to be there[NEWLINE]before sunset!
+0x120c	20	Ms. Mary?[NEWLINE][NEWLINE]
+0x1236	8	Yes?[NEWLINE][NEWLINE]
+0x1254	60	From now on,[NEWLINE]what kind of place will we be living in?[NEWLINE][NEWLINE]
+0x12a6	84	That's the fifth time you asked![NEWLINE]Don't worry, [NEWLINE]it's a really nice place[NEWLINE][NEWLINE][NEWLINE]
+0x13a2	26	Almost there, see?[NEWLINE]
+0x13d2	10	Hey...[NEWLINE]
+0x3126	46	And so, Jennifer went back[NEWLINE][NEWLINE][NEWLINE]to the orphanage.[NEWLINE]
+0x3174	56	She was discovered in her[NEWLINE][NEWLINE][NEWLINE]room a few days later...[NEWLINE][NEWLINE]
+0x31cc	26	...dead.[NEWLINE][NEWLINE][NEWLINE]
+0x3734	16	ÇsÇâÇçÇÖ ÇnÇïÇî
+0x43d6	34	ItÅfs so empty here. IÅfll never get used to it!
+0x4416	4	...?
+0x4434	28	Lotte, donÅft be such a wimp.
+0x446e	4	...
+0x44ae	16	Ms. Mary... sure is taking a while.
+0x44dc	24	Do you want me to go look for her?
+0x4512	20	No, I'll look for her.
+0x4566	10	Somehow...
+0x458e	4	Huh?
+0x45b0	24	It's just so big I canÅft stand it!
+0x4608	20	I wonder what's up with our teacher...
+0x465c	12	Hey, Ann...
+0x4686	32	You wonder what kind of person Mr. Burroughs is...
+0x46c4	8	Right?
+0x46ea	6	Yeah.
+0x4730	36	Hey, maybe you can go and find our teacher.
+0x4794	6	...[NEWLINE]
+0x48ba	20	!? It's coming from the main foyer!
+0x4948	6	...?[NEWLINE]
+0x496c	12	It won't open...[NEWLINE]
+0x4a22	14	What a large house...
+0x4ab4	8	True.
+0x4ad2	36	It's so huge and this is only the foyer!
+0x4b1a	38	As I'm your teacher, I'll go greet the owner of the mansion.[NEWLINE][NEWLINE]
+0x4b5e	30	Everyone, stay put.
+0x509a	10	No Comment.
+0x5a82	6	...?[NEWLINE]
+0x5aa2	12	It won't open...[NEWLINE]
+0x5c78	30	ItÅfs impossible to get over there.[NEWLINE]
+0x5cec	30	ItÅfs impossible to get over there.[NEWLINE]
+0x5d8e	30	ItÅfs impossible to get over there.[NEWLINE]
+0x5e02	30	ItÅfs impossible to get over there.[NEWLINE]
+0x5e42	10	Guys...?
+0x5e6a	30	Hey, stop joking around!
+0x5ea6	4	...
+0x6332	24	Outside seems to be the mansion's courtyard.[NEWLINE]
+0x637c	24	It's completely dark.[NEWLINE]
+0x65ba	16	The lights are out.
+0x65e4	28	I wonder where the light switch is.
+0x694c	16	There's a key.[NEWLINE]
+0x6976	30	Got the 'West Wing Key'
+0x6a66	10	It's Empty...
+0x6bd6	24	I think it's broken...
+0x6c30	8	????
+0x6d6c	24	It's quite dark.[NEWLINE]
+0x6d9e	16	I wonder what time it is, now...
+0x6de4	34	Looks like a nice, really comfy sofa.
+0x6e40	8	????
+0x75ac	34	The bed on the left-hand side doesn't seem to be used.
+0x7608	30	There is a small bottle of perfume.[NEWLINE]
+0x7640	6	...[NEWLINE]
+0x7660	40	ItÅfs the same as our teacherÅfs, Ms. MaryÅfs.[NEWLINE]
+0x76a2	22	Got a 'bottle of perfume'.[NEWLINE]
+0x7790	12	Something or other...
+0x7980	14	random...
+0x79fe	16	Ç≠Åc[NEWLINE]Ç≠Ç≠Ç¡ÅcÅB
+0x7b92	12	ÇÆÅcÇ•Ç¡Åc[NEWLINE]
+0x7bb4	10	Ç∞ÇŸÇ¡ÅcÅB
+0x807c	16	A parrot...??[NEWLINE]
+0x8c5a	14	Water seems to come out.
+0x8d06	22	...I don't want to, though.
+0x8d4a	18	Even if I needed to, I still don't want to.
+0x91ea	12	Ah... Uaaah...
+0x9214	10	Lau.....ra...!?
+0x94d6	22	The shower seems to be working.
+0x9544	22	The shower works.
+0x99bc	24	The light switch is broken.
+0x9dce	18	I locked the door!
+0xa0fe	20	The room number is invalid[NEWLINE]
+0xa202	14	Ms. Mary!
+0xa22e	26	Oh good, Jennifer.
+0xa266	16	You are safe and sound.
+0xa294	8	Mary!!
+0xa320	8	Ah...everyo...
+0xa346	6	...
+0xa37c	6	...Who?
+0xa3a0	10	Mary...
+0xa3c8	6	Ms...
+0xa3f8	44	Jennifer, you're a bad daughter and you shouldn't have...
+0xa442	40	For... murdering my little boy!
+0xb45c	6	...[NEWLINE]
+0xb478	22	Locked.
+0xb54c	18	It's locked.
+0xb5e4	20	Used the 'Golden Key'
+0xb724	6	...[NEWLINE]
+0xb744	10	...it won't open.
+0xb7d4	20	'Silver Key' was used.
+0xb8c6	18	It's locked.
+0xb908	20	'Golden Key' was used.
+0xb9f8	6	...[NEWLINE]
+0xba18	10	Locked.
+0xba5a	20	Used the 'Silver Key'
+0xbd88	8	Ann!!
+0xbf86	8	How Strange!!
+0xc28e	26	One leg of ham is contained inside.
+0xc2be	20	Got some 'Ham'.
+0xc322	34	Many bottles of drinks are lined up.
+0xc45a	12	It's a calendar.
+0xc47c	34	There's a mark on today's date.
+0xc570	20	There's something shiny in the back!
+0xc6f8	16	Set of the insecticide canister!
+0xc852	16	... a key fell out.
+0xc878	30	Got the 'Golden Key'
+0xcb22	26	Dishes are stored inside.
+0xcb72	20	Gas bottles for a stove are lined up.
+0xcbc0	28	It's an old iron frying pan.
+0xcd8e	16	Drank the drink
+0xcdbe	6	Uuuugh...
+0xcdda	14	My...head...hu...
+0xce32	16	Drank the bottle
+0xce62	16	... a little refreshing
+0xce92	14	It's empty...
+0xd1f8	14	There's some sort of key.
+0xd21e	14	It's a car key.
+0xd248	34	Got the 'Car Ignition Key'.
+0xd2a4	18	Nothing else...
+0xd378	28	The ignition key is missing...
+0xd3d2	28	With this car, I might be able to get out of here...
+0xd40a	8	But...
+0xd42e	16	Everyone else is...
+0xd476	14	What should I do...
+0xe546	22	No good... can't climb it.
+0xe59a	22	Cluttered junk everywhere.
+0xe5d8	22	Broken silverware is stored inside.
+0xe614	4	seems that
+0xe696	18	There's some rope here...
+0xe6c2	22	Got the 'Rope'
+0xe770	16	Dishes and silverware are stored here.,,
+0xe7ae	16	It's empty...
+0xe7f8	16	It's a canister of insecticide.
+0xe81e	22	Got the 'Insecticide'
+0xe8f6	24	It doesn't work...
+0xe98a	16	Nothing there.
+0xe9d0	14	Clothes are inside.
+0xe9f8	14	What... kind of clothes... are these?
+0xea24	26	Got the 'Black Robe'
+0xea82	16	Nothing here.
+0xeef6	22	... nope, can't climb it.
+0xf8ee	8	Getting one!
+0xf914	12	Argh!
+0xf954	20	I can see a pool within the courtyard from here.
+0xfa1c	2	?
+0xfa38	30	The door seems to be blocked from the other side.
+0xfabc	6	...[NEWLINE]
+0xfad8	22	locked...
+0xfb6c	26	... a scream is heard from outside.
+0xfc3e	6	...
+0xfce8	8	Ann!!
+0xfdea	6	...
+0x100bc	8	Uhhgh...!
+0x10124	12	Wher...hua....
+0x1049e	10	Uuu...eeeeh...
+0x104c2	10	W...Who are y?!
+0x104e6	10	Urr...Guhh
+0x1051c	14	Hun...gry...
+0x105a0	10	Uu...heee
+0x105c8	10	W... Who are y!?
+0x105ec	10	Uuuuh....Uuuurgh...
+0x10622	14	Hun...gry...
+0x106e6	26	Uhehehehe, my FOOOOOOOOD!
+0x1079e	12	He... Hey....
+0x108c0	8	It opened!
+0x109f2	32	Jennifer, you're safe!
+0x10a30	10	Lotte!!
+0x10a58	28	hold on, I'll get it open for you.
+0x10b3e	38	There! Now run away before Ms. Mary comes!
+0x10b82	6	Huh...?
+0x10ba6	24	Hurry, Jennifer.
+0x10c96	26	A voice can be heard outside the hut...
+0x10cce	32	Really, what a shame. Worrisome children.
+0x10d0c	36	Jennifer, wait right there.
+0x10d4e	22	I'm going to punish you!
+0x10e88	16	No use hiding.
+0x10eb6	30	Come on out, Jennifer.
+0x10f58	24	Hiding in a place like this...
+0x10f8e	22	Just like a cat burglar.
+0x1119a	36	Jennifer, don't anger your teacher.
+0x11242	24	I'm going to teach you...
+0x11286	40	To be a good and obedient child!
+0x113d6	34	Seems to be no longer looking at Jennifer.
+0x1143a	8	Um...
+0x11460	10	You are?
+0x11488	14	...Bu...rroughs...
+0x114b4	22	This is... Mr. Burroughs?
+0x114e8	6	Hehehehehehe
+0x1150c	4	!?
+0x1152a	24	Right now... it's watching you.
+0x11560	4	Huh?
+0x11582	34	Watching you from the cradle under the star.
+0x115c2	22	Cradle... under the star...
+0x115f6	10	Hehehehehe
+0x11744	24	Looks like the courtyard of the mansion.
+0x119d8	20	The room number is invalid.[NEWLINE]
+0x11c4a	26	There are deep cracks in the wall.[NEWLINE]
+0x11c7e	16	Looks like it could collapse at any moment.
+0x11de8	26	Looks like it hasn't been used in a long time.
+0x11e1a	20	The water is stagnant and black.
+0x11e86	10	Ann!
+0x11fea	2	!
+0x1206e	14	Jenni...fe...
+0x120cc	14	Help... Gaaa
+0x1212e	6	Ann!
+0x1218c	8	Ka...uh.
+0x121c0	8	Help...!
+0x121de	10	Cough...Gag
+0x121fe	6	Gouh...ack!
+0x12280	16	Ann!ANN!
+0x122ae	6	...
+0x12b12	36	There's a pile of concrete and wood rubble.
+0x12b4c	24	Picked up a 'Sharp Stone'
+0x12be8	36	There's a pile of concrete and wood.
+0x12c5a	26	There are deep cracks in the wall.[NEWLINE]
+0x12c8e	16	It's likely to collapse at any moment.
+0x12cd4	24	It's completely dark.[NEWLINE]
+0x133ca	28	The mouse ran away...
+0x1341e	34	Some brown mice are running around
+0x13478	16	It's empty
+0x135e2	8	Me too...[NEWLINE]
+0x13608	16	I want to run away as well
+0x1364c	26	There's a crow inside.
+0x13694	16	It's empty.
+0x136da	24	There's a dead crow hanging here.
+0x1370c	28	Someone sawed its head off, completely.
+0x13796	4	...
+0x137b4	14	It's a dead crow.
+0x137d8	20	There's a key inside.
+0x13806	32	Got the 'Nest Key'
+0x13e4a	10	Oh... oh.
+0x13e72	28	It helped me because I helped it...
+0x145c8	24	The light switch is broken.
+0x14610	20	Books are lined up here
+0x1464c	4	...?
+0x14666	26	A piece of paper is stuck in the book.
+0x1469a	30	'The Demon Idol is Carefully Guarded'.
+0x146d2	36	'A tree within a forest'ÅA[NEWLINE]Å@'a person within a crowd'ÅA
+0x14710	18	'A statue among statues'
+0x14766	38	A book filled with meaningless symbols
+0x147c0	26	There are some technical books mixed in here.
+0x14810	24	Looks like a lot of old magazines.
+0x14842	24	A maternity magazine?
+0x148aa	18	Nothing here.
+0x148e4	32	There's something shiny in the hole in the middle of the wall.
+0x1491e	10	... It's a key.
+0x14942	30	Got the 'Copper Key'.
+0x14990	24	It seems to be a fairly deep hole.
+0x149d0	24	There's something shiny at the back/
+0x14a38	26	The back is so dark, it's almost invisible.
+0x14a96	38	A book filled with meaningless symbols.
+0x1504e	12	This room...
+0x15078	28	Looks like that earlier mural.
+0x15302	4	...
+0x15338	14	A dead crow...
+0x1535c	26	Its head has been torn off...
+0x153ac	32	Strange symbols and letters have been written.
+0x153e2	26	ÅeTime...is....made to adhere'?
+0x1541a	20	I wonder what this means.
+0x154b4	30	It fits in the cross shaped groove!
+0x15514	10	...what's that sound?
+0x15542	12	It's an iron disk.
+0x15568	26	A cross has been cut into it.
+0x155b8	34	Looking closer, there's a square shaped groove in the floor.
+0x155f4	20	'Cradle under the star'
+0x15622	4	...
+0x15640	26	There's something under here.
+0x15692	22	A celadon vase has been placed here.
+0x156be	32	I can see a hole going downward from the opening in the floor.
+0x157e2	8	What was that sound?
+0x15826	22	A celadon vase has been placed here.
+0x15852	32	I can see a hole going downward from the opening in the floor.
+0x159fe	34	The hole seems to go really far down.
+0x15a36	22	I can use this ladder to get down there.
+0x15db8	14	The water seems to be in working order.
+0x15f16	22	The shower works.
+0x15f84	22	Looks like the shower works.
+0x16fe2	4	...!
+0x1785a	24	The light switch is broken.
+0x178c8	34	A lot of expensive paintings have been stacked here.
+0x17920	16	It contains dishes inside.
+0x179aa	18	There's some rope here
+0x179d6	22	Got a 'rope'
+0x17b34	38	The wall seems to have been re-plastered for some reason
+0x17b74	32	There are cracks in it and looks like it'll collapse
+0x17baa	4	...!
+0x17c36	8	That's strange.
+0x17c5c	32	This part of the wall is a different color to the rest of it...
+0x17db2	24	ThereÅfs a room on the other side.
+0x18292	32	I wonder how long it hasn't been used for.
+0x182c8	28	The air is stuffy and heavy.
+0x18528	6	...
+0x18544	32	The corpse is holding a piece of paper.
+0x1857a	20	It's a memo.
+0x186c2	18	A black medical bag.
+0x186ea	30	There's a name on the inside in embroidery...
+0x1871e	30	'Walter Simpson'...
+0x18752	32	Walter...Simpson...!?
+0x18788	10	Fa...Father.
+0x187e6	22	Looks like a medical record.
+0x18812	36	The patient's name is listed as Mary Burroughs.
+0x1884c	14	That's the name of the master of the house.
+0x18870	6	...
+0x1888c	10	Mary...
+0x188ac	12	Burroughs...
+0x18906	14	Seems to be a medical record.
+0x1892a	24	Two newborn babies are the patients listed.
+0x1898a	24	Was it to count the number of days?
+0x189b8	26	Marks have been carved into the wall.
+0x18a92	10	It's a skeleton.
+0x18ab2	6	...
+0x19274	24	The light switch is broken.
+0x192fc	14	This book is hard to read.
+0x19320	6	???
+0x19470	20	A woman is depicted.
+0x1949e	24	This person... resembles someone...
+0x19502	20	I wonder who lit this...
+0x19562	26	A middle-aged woman is depicted.
+0x195c4	4	...
+0x195de	8	It's a literary book.
+0x19642	32	From this window, the pool in the courtyard below can be seen.
+0x196ba	4	...
+0x19716	22	There's a lantern, here.
+0x19742	24	Picked up a 'Lantern'
+0x197bc	30	Dust has accumulated on the desk.
+0x198be	20	From here... Ann...
+0x19916	28	Red blotches are scattered across the desk.
+0x19aa2	6	...
+0x19ac2	32	I feel like someone is watching me.
+0x19d80	24	The light switch isn't working.
+0x19df6	18	It's a big clown doll.
+0x19e3a	18	There's a key on top.
+0x19e66	32	Pocketed 'Ritual Key'
+0x19f1c	14	... what's that sound?
+0x19f6c	16	Ah, it won't open!?
+0x1a208	14	A French doll
+0x1a22c	26	Suspended from the ceiling...
+0x1a278	6	...
+0x1a2b0	22	It looks like a child's bed.
+0x1a2e0	30	It's dirty with stains and covered in dust.
+0x1a338	20	A record player.
+0x1a366	18	It seems to be broken.
+0x1a434	16	Oh, it won't open!?
+0x1a754	28	There's only junk inside.
+0x1a7e0	4	...?
+0x1a818	30	There's a lot of sheet music scores inside.
+0x1a8de	24	The light switch must be broken.
+0x1a9f0	20	A record player.
+0x1aa1e	28	It's not plugged in...
+0x1aa5c	12	...Ku...Gaaa...
+0x1aa7e	16	My ears are... ouch.
+0x1adb6	4	...?
+0x1add0	26	A metal cane is stuck in the celadon pot.
+0x1ae2e	18	Obtained 'Cane'.
+0x1aed0	18	It's a large celadon pot.
+0x1b2c2	32	The mannequin has a dress on.
+0x1b35a	32	This mannequin is wearing a dress.
+0x1b394	10	It's beautiful...
+0x1b990	12	What's that...
+0x1b9dc	20	It's like a dog's growl.
+0x1bbd2	32	I wonder if this will fool the dog...
+0x1bd28	34	The smell I know so well.
+0x1bd74	28	The smell of Ms. Mary's perfume.
+0x1bf42	16	Lotte. LOTTE!
+0x1bf6e	6	Uh...
+0x1bf90	8	Lotte,
+0x1bfb4	16	You're alive!!
+0x1bfe0	8	Ah...
+0x1c004	16	Jennifer...
+0x1c030	10	The clock tower...
+0x1c056	14	The switch...
+0x1c07c	6	...
+0x1c09a	8	Lotte?
+0x1c0be	20	Don't go... I'm the only one now.
+0x1c0ee	6	...
+0x1c196	32	I've already thrown the perfume and black robe away
+0x1c1ce	30	Passing in front of the dog again would be dangerous...
+0x1c61e	2	ÅH
+0x1c674	16	There's cans here.
+0x1c69a	16	Seems to be kerosene.
+0x1c702	16	There are cans here.
+0x1c728	16	Looks like it's kerosene.
+0x1caa8	6	...Ah
+0x1cafa	8	...Kuh...
+0x1cb18	10	A...Ahh....
+0x1d082	14	It's an elevator
+0x1d0aa	20	It's not moving.
+0x1d996	18	So, I've caught you now.
+0x1d9be	26	Your game of tag has come to an end!
+0x1da76	8	Ulp! Uuuuhhhh!
+0x1e8ae	12	My adopted daughter!!
+0x1e928	12	You're only...
+0x1e944	34	It's obvious you're the only one left now... I'm going to kill you!
+0x1ebee	6	...
+0x1ec2a	6	Ann!
+0x1ec66	14	Jennifer!
+0x1ed2a	14	This... little girl!
+0x1ed8a	22	My little boys... How dare you!
+0x1ee6a	12	Hehehehe...Nh....
+0x1eef8	42	Get out of my way, you vicious little shits!
+0x1ef9e	4	Uuuuwahhh!
+0x1f0b0	8	Laura!
+0x1f0ee	14	Jennifer!
+0x1f1b2	14	This... little girl!
+0x1f212	22	My little boys... How dare you!
+0x1f2f2	12	Hehehehe...Nh...
+0x1f380	42	Get out of my way, you vicious little shits!
+0x1f426	4	Uuuuuwahhh!
+0x1f524	6	Ann.
+0x1f542	6	Ann.
+0x1f564	6	Uhh...
+0x1f5a6	8	Laura!
+0x1f5d0	8	Laura.
+0x1f5f4	6	Mmmmh...
+0x1f822	14	Jennifer.
+0x1f8c2	12	Ç®ëOÇæÇØÇÕÅc
+0x1f940	18	I've been waiting for you!
+0x1fa5e	10	Ç≠Ç¡ÅcÇ≠ÅB
+0x1fba0	16	âΩÇÇ∑ÇÈÇÒÇæÇ¢ÅA
+0x1fce8	22	Ç±ÇÃÉNÉ\ÉKÉâÉXÇ«Ç‡!!
+0x1fefa	6	ÇÆÇ†!
+0x203fe	18	ómïûÉ_ÉìÉXÇÃÇÊÇ§Çæ
+0x20426	32	íÜÇ…ÇÕèóê´ïûÇ™Ç¢Ç≠Ç¬Ç©ì¸Ç¡ÇƒÇ¢ÇÈ
+0x20460	4	ÅcÅB
+0x2047e	14	There's some unusual clothes.
+0x204a6	26	Got a 'Black Robe'
+0x204f8	18	Seems to be a wardrobe.
+0x20520	32	There's some women's clothing inside.
+0x2055a	4	ÅcÅB
+0x20714	10	A...Aaaaah...
+0x2073c	10	Laura...
+0x207e4	28	A very luxurious sofa.
+0x20836	30	Looks like the glass was used very recently.
+0x2086a	24	There's still liquid at the bottom of it.
+0x208ae	6	Ah...
+0x208ce	38	There's a silver key tucked underneath the glass.
+0x2090e	30	Pocketed the 'Silver Key'
+0x20980	4	...!
+0x2099e	22	The telephone line has been cut.
+0x20a00	36	Various bottles of drinks are displayed.
+0x20b6e	16	Ms. Mary...
+0x20baa	30	I'm glad to see you safe, Jennifer.
+0x20bf6	28	Ms... Everyone... Everyone is...
+0x20c30	30	It's alright Jennifer... Okay.
+0x20cbe	20	Come on, drink this.
+0x20cf0	14	It'll settle you down...
+0x20dc6	18	Ms...Mary...
+0x20df6	30	I'm glad to see you safe, Jennifer.
+0x20e32	12	What's the matter?
+0x20e5c	22	Come over here please.
+0x2115a	34	A note has been put into the book of spells
+0x21196	24	ÅeTimeÅcÅ@is made to adhere'...?
+0x211cc	34	'The clock of the great clock tower has been stopped...'
+0x21242	32	There's various types of chemicals on the desk
+0x212ae	2	...
+0x2138a	30	There's a mural across one entire wall
+0x213c2	28	I can't see the whole mural, one part of it is hidden behind that shelf
+0x21456	38	A room where a ritual is being held is depicted
+0x21496	28	I wonder, if the room depicted is in this place.
+0x214f8	38	A room where a ritual is being held is depicted
+0x21534	24	It looks like a room I've seen somewhere before
+0x21596	28	There's a cheap looking magic book on the shelf.
+0x21724	28	There's a cheap looking magic book on the shelf.
+0x21794	4	...?
+0x217ae	26	There's a piece of paper in the book.
+0x217e2	30	The Demon Idol is carefully guarded.
+0x2181a	32	'A tree within a forest,Å@A person within a crowd, '
+0x21850	16	'A statue among statues'
+0x2189e	28	There's a cheesy looking magic book on the shelf.
+0x2190a	28	There's a cheesy looking magic book on the shelf.
+0x21d00	20	There's a cheap looking magic book on the shelf.[NEWLINE]
+0x22114	6	...[NEWLINE]
+0x22304	18	Bobby! BOBBY!
+0x22334	10	That girl!
+0x2235c	36	Grab her! She's the one who's killed Dan!!
+0x22a7c	14	Seems to be a bird's nest.
+0x22ac8	16	Nothing there.
+0x22bee	10	What is this...
+0x22c12	32	There's eggs and the rest of it is filled with garbage.
+0x22c76	16	There's a key...
+0x22c9c	28	Found a key in the garbage.
+0x22cce	32	Pocketed the 'West Wing Key'
+0x2370a	6	...[NEWLINE]
+0x23726	22	Seems to be locked.
+0x23aea	20	The room number is invalid.[NEWLINE]
+0x242b4	20	The room number is invalid.[NEWLINE]
+0x2449e	14	It's just a wooden board.
+0x24504	26	The floor of the first floor can be seen through the gap.
+0x2455c	4	...
+0x2457a	30	It looks like the wall was only re-plastered here
+0x246b6	6	Ah!
+0x2474a	36	A small statue is hidden inside the bosom of the bronze statue.
+0x24788	18	Somehow.... it's cold.
+0x247b4	38	A cross sticks out of the bottom of the statue.
+0x2482e	26	Picked up the 'Demon Idol'.
+0x2489a	4	...
+0x248d4	4	...
+0x24924	4	...

@@ -1,0 +1,24 @@
+Culdcept Animation Format ("those fucking .bin files")
+
+0x00-0x02 short byte length of file
+
+Statue is 32 big (8*4)
+
+{ #Seems to be the upper right src point
+0 - 0x18 24
+2 - 0x01
+}  
+
+4  - 0x02 
+6  - 0x2D 45 #Width - dest
+8  - 0x37 55 #height - src
+10 - 0xFFEE -22
+12 - 0xFFCF -49 # Height - dest start
+14 - 0x00
+16 - 0x00
+18 - -1
+20 - -1
+22 - 0xFFEC  -20
+24 - 0x10 16
+26 - 0x00 #Width Dest offset (nothing because its fine)
+28 - 0xFFFC -4 #Height Dest offset (-49+ -4 = -55)

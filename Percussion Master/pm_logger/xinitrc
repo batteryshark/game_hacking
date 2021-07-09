@@ -1,0 +1,5 @@
+xset s off -dpms
+cd /peng/pci
+exec pc_load
+cd /peng/linux
+LD_PRELOAD=/root/pm_logger.so peng

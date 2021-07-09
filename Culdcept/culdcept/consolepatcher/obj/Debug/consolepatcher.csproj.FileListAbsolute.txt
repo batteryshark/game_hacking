@@ -1,0 +1,10 @@
+C:\Users\Mario\Downloads\culdcept\consolepatcher\bin\Debug\consolepatcher.exe
+C:\Users\Mario\Downloads\culdcept\consolepatcher\bin\Debug\consolepatcher.pdb
+C:\Users\Mario\Downloads\culdcept\consolepatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Downloads\culdcept\consolepatcher\obj\Debug\consolepatcher.exe
+C:\Users\Mario\Downloads\culdcept\consolepatcher\obj\Debug\consolepatcher.pdb
+C:\Users\Mario\Desktop\CHACK\tools\culdcept\consolepatcher\bin\Debug\consolepatcher.exe
+C:\Users\Mario\Desktop\CHACK\tools\culdcept\consolepatcher\bin\Debug\consolepatcher.pdb
+C:\Users\Mario\Desktop\CHACK\tools\culdcept\consolepatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\CHACK\tools\culdcept\consolepatcher\obj\Debug\consolepatcher.exe
+C:\Users\Mario\Desktop\CHACK\tools\culdcept\consolepatcher\obj\Debug\consolepatcher.pdb

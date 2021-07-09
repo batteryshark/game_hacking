@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>D:\MyProjects\CuldceptDSEditor\work\</StartWorkingDirectory>
+    <StartArguments>"D:\MyProjects\CuldceptDSEditor\work\Culdcept DS (JP).nds" "D:\MyProjects\CuldceptDSEditor\work\English.nds"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>"D:\MyProjects\CuldceptDSEditor\work\Culdcept DS (JP).nds" "D:\MyProjects\CuldceptDSEditor\work\English.nds"</StartArguments>
+    <StartWorkingDirectory>D:\MyProjects\CuldceptDSEditor\work\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

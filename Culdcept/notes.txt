@@ -1,0 +1,1 @@
+so the first value is the size of the whole structure in bytes, the second value appears to be the whole structure minus 8 bytes for... idfk

@@ -1,0 +1,24 @@
+Tank!Tank!Tank! (Emulated + No HASP + Banana Sandwiches) 
+
+Notes:
+- I haven't tested this on a VM yet, but it should work fine now that the proprietary OS crap has been removed.
+- The only static modification to the binary is a change to the ld-linux path.
+- You either need a webcam (preferably one that can do cropping), or disable it in the tank_emu.c file and recompile.
+- If you have an I/O... use it. If not, use the tio_emu.so file as well in your preload.
+- I left the landscape patch enabled by default, it may be cut off if you have a 1080p monitor or less, play it sideways if you really want.
+- Tested and running natively on Linux Mint 17.3 (Rosa) x64
+
+Instructions:
+
+1. If necessary - change anything in the tio_emu.c file / tank_emu.c file and recompile them.
+2. If you're using the emulated IO, the hook will try to open /run/kbdhook, find out what your kbd event
+device path is, and run this after every reboot of your system:
+    ln -s /dev/input/by-path/YOUR_*event-kbd /run/kbdhook
+3. Run the game with LD_PRELOAD=./tio_emu.so:./tank_emu.so ./n_tank_release [window/rright/rleft]
+
+
+Cheers!
+
+
+
+

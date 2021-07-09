@@ -1,0 +1,42 @@
+Clocktower's text and various other logic operates off of two files:
+CT.ADO and CT.ADT - their relation is not yet discovered
+
+CT.ADO contains text strings in SHIFT-JIS format, precluded by two big endian short values and another little endian opcode value... the opcode tells the game what kind of text it is and what it should do with it.
+
+Printable strings appear to have the same starting pattern: "0x33ff00f000f0" and end with 0x0A 0x00 0x0A 0x00 or just 0x00
+
+The game actually has a NOREG option to launch that you find by looking at the regqueryvalue shit that will skip the registry check for a data directory and assume it's in game root which is kinda nice for our needs.
+
+String Prologue:
+"\xff\x33\x00\xf0\x00\xf0"
+
+STRING CONTENT
+(Normally ends with 0x00 except when leaving space with 0x00 0x0A 0x00) Look for opcodes... thats the only way to tell
+Next Opcodes:
+
+BIG_ENDIAN opcodes / LITTLE_ENDIAN
+0xFF00 -- CT_UNK // Normally the prologue of a scene
+0xFF01 -- CT_UNK // first one had 3 bytes of 0x00 0x01 0x00 , second was three nulls
+0xFF08 -- CT_UNK // has a null at the end
+0xFF09 -- CT_UNK // has a null at the end
+0xFF11 -- CT_UNK // had an int (first one being 0x1C019) (maybe 2 shorts) second was 0xC019 and 0x00
+0xFF17 -- CT_UNK
+0xFF1F -- CT_UNK
+0xFF21 -- CT_UNK // 2 byte value at the end -- 0x13 for the first one, 0x05 for the second
+0xFF22 -- CT_UNK // 2 byte value at the end -- 0x59 for the first one 
+0xFF28 -- CT_UNK
+0xFF29 -- CT_UNK // 2x2 byte value at the end for second (0x1 and 0x1)
+0xFF2B -- CT_UNK
+0xFF2D -- CT_UNK // 2 byte value at the end (first was 0x01)
+0xFF30 -- CT_UNK
+0xFF33 -- CT_STRING
+0xFF36 -- CT_UNK
+0xFF39 -- CT_FILEPATH // (3 bytes - 0xff 0x00 0x00) with an ASCII path(.bmp)then two nulls
+0xFF3B -- CT_FILEPATH // a 16-bit int (0x1) followed by an ASCII path (first one is a .MID file) and 3 bytes of null
+0xFF40 -- CT_UNK
+0xFF46 -- CT_UNK // has 12 bytes following -- first two shorts are 0x20 and 0x148
+0xFF4B -- CT_UNK
+0xFF6A -- CT_UNK
+
+
+each SCENE_SEGMENT starts with an 0x00 which CT.ADT points to - HOWEVER, there appear to be symlinks in the fucking thing as being off by even one seems to fuck shit up (scenes can xref each other by hardcoded offset in ADO) == HOWEVER... when I just added some values to a scene (not subtracting them all by 256 and removing the 256 byte header from the ADO) we were fine

@@ -1,0 +1,10 @@
+C:\Users\Mario\Desktop\CHACK\tools\culdcept\packer\bin\Debug\packer.exe
+C:\Users\Mario\Desktop\CHACK\tools\culdcept\packer\bin\Debug\packer.pdb
+C:\Users\Mario\Desktop\CHACK\tools\culdcept\packer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\CHACK\tools\culdcept\packer\obj\Debug\packer.exe
+C:\Users\Mario\Desktop\CHACK\tools\culdcept\packer\obj\Debug\packer.pdb
+C:\Users\Mario\Desktop\chacking\tools\culdcept\packer\bin\Debug\packer.exe
+C:\Users\Mario\Desktop\chacking\tools\culdcept\packer\bin\Debug\packer.pdb
+C:\Users\Mario\Desktop\chacking\tools\culdcept\packer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\chacking\tools\culdcept\packer\obj\Debug\packer.exe
+C:\Users\Mario\Desktop\chacking\tools\culdcept\packer\obj\Debug\packer.pdb

@@ -1,0 +1,11 @@
+//-- Regional Options
+#define REGION_CHINA 1 
+#define REGION_HONGKONG 2
+#define REGION_INTERNATIONAL 3
+#define REGION_AMERICA 4
+#define REGION_EN 5
+#define REGION_EU 6
+#define REGION_KOREA 7
+#define REGION_THAILAND 8
+#define REGION_INTL 9
+#define REGION_RUSSIA 10

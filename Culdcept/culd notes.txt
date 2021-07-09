@@ -1,0 +1,68 @@
+Notes
+99 - kobold
+140 - minotaur
+5- giant rat
+40 - 
+Cards are 256x320 ARGB = Type 0x00 for PVR
+Sprites are 32x256 annnnd... idk the type of color info yet
+
+Card Format
+0x00 char - Size of Header
+0x01 short - ST
+0x03 short - HP
+0x05 short - MHP
+0x07 short - G
+0x09 char - ???
+0x0A char - Rarity
+	0x00 - N
+	0x01 - R
+	0x02 - S
+	0x83 - E
+	
+0x0B char - ???
+0x0C short - ???
+0x0E char - Card Type
+	0x12 Water
+	0x14 Yellow (Wind?)
+	
+0x0F char - Land Limit
+	0x8 Earth
+	0x4 Water
+	0x2 Fire
+0x10 Item Limit
+	0x02 Armor
+	0x03 Weapons and Armor
+	0x08 Scrolls
+	0x09 Weapons and Scrolls
+	0x0A Armor + Scrolls
+	0x0B Weapons and Armor and Scrolls
+0x12 short - ???
+0x14 short - ???
+0x16 short - ???
+0x18 short - Card ID
+0x1A short - ???
+0x1C short - ???
+0x1E short Offset to Card Offset
+0x20 short Offset to Sprite
+0x22 short Offset to Other file (maybe animation)
+0x24 short - ???
+0x26 short - ???
+0x28 short - ???
+0x2A short - ???
+0x2C short - ???
+0x2E short - ???
+0x30 short - ???
+0x32 short - ???
+0x34 - Name (Null Terminated)
+
+offset 1 = Sprite
+offset 2 = Something else
+something else
+	short = something_len
+Guard 0x202
+Card_DATA = offset2+short(something_else)+0x202
+
+The ADX Files are like this:
+0x05 because... idk
+0x5622 because it means 22050
+0x3800 because its the size of the audio without the 32 byte header

@@ -1,0 +1,41 @@
+[Notes]
+ - For network play, set an environment variable called DH_PCB_ID to 1, 2, 3 , or 4 depending upon link configuration.
+ - If DH_PCB_ID is not set, the default PCB ID will be 1.
+ - This game, like many other namco games, requires 5.1 audio at a rather specific sample rate. If you don't have surround51 as a valid audio device (i.e. you're like everyone with just two speakers, you're going to need to add export DH_SOUND_FIX=1 to environment variables and add this to your /etc/alsa.conf:
+ 
+ """
+ #5.1 to stereo downmix - manual with no plugin
+pcm.!sysdefault {
+slave.pcm front
+slave.channels 2
+type route # input output scaling
+ttable.0.0 1 # fl left 100
+ttable.1.1 1 # fr right 100
+ttable.2.0 1 # rl left 100
+ttable.3.1 1 # rr right 100
+ttable.4.0 0.5 # ctr left 50
+ttable.4.1 0.5 # ctr right 50
+ttable.5.0 0.5 # lfe left 50
+ttable.5.1 0.5 # lfe right 50
+}
+
+ """
+This will push all 6 channels to your two speakrs. 
+Note: Audio is sometimes testy; you may have to re-run the game a couple of times until audio works.
+
+- If you don't have a camera (/dev/video0), turn off the camera in config.csv or you will get an error. If you have a camera and it still errors, export DH_CAMERAFIX=1,
+
+- Check out data/csv/config.csv for extra options.
+- Run the game with LD_PRELOAD=./dh_emu.so ./a.elf [-full]
+
+[Controls (Using a PS4 Controller via USB)]
+Left Analog - Move/Select
+X Button - Accelerate/Decide
+Triangle Button - NOS
+Circle Button - Change View
+Square Button - Brake
+PS Button / Touchpad Button - Up/Down Shift
+L1+R1 - Reset/Back
+L2+Start - Service Menu Button
+L1 (hold) - Insert Coin
+

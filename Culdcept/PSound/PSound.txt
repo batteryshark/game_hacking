@@ -1,0 +1,25 @@
+-----------------------------------------------
+Title		PSound
+File name	PSound.exe
+File size	107008 bytes
+Type		Freeware, Public Release
+Platform	Win32
+Version		-2.00
+Author		snailrush
+Homepage	http://snailrush.online.fr/
+E-mail		snailrush@online.fr
+-----------------------------------------------
+
+-Archive contents-
+PSound.exe	the program
+PSound.chm	the manual
+PSound.txt	this file
+
+-Comments-
+PSound, sound player for PlayStation(1&2) games.
+Please read the manual I've written, everything
+you need to know is inside it.
+
+-More info-
+This is a freeware, and there's no guarantee.
+If you not agree, you not use it.
