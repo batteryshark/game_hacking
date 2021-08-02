@@ -1,1 +1,0 @@
-# Patches for RT Batman Arcade
